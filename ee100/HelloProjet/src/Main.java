@@ -9,5 +9,6 @@ public class Main {
 		System.out.println("小李四写的代码!!!");
 		System.out.println("小三写的代码!!!");
 		System.out.println("小无写的代码!!!");
+		System.out.println("小六写的代码!!!");
     }
 }
