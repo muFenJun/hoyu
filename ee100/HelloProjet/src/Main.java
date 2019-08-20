@@ -10,6 +10,10 @@ public class Main {
 		System.out.println("小三写的代码!!!");
 		System.out.println("小无写的代码!!!");
 		System.out.println("小小小六写的代码!!!");
+<<<<<<< HEAD
 		System.out.println("小小小八写的代码!!!");
+=======
+		System.out.println("Hello!!!");
+>>>>>>> 5f3fb5fa5edf2f1b78322ce40f52e71ac620c496
     }
 }
