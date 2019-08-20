@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("小小小六写的代码!!!");
 		System.out.println("小小小八写的代码!!!");
 		System.out.println("Hello!!!");
+		int i = 9;
+		System.out.println(i);
 
     }
 }
